@@ -1,1 +1,1 @@
-these are images for apps and .res file
+these are images for apps or readme and .res file
