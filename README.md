@@ -18,8 +18,3 @@ c++, Yaml
 | **V1.1** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGame1.1C-Runtime) |
 
 | **V1.0** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGameC-Runtime) |
-# Warning
-if you see this
-![](assets/problem.png)
-make sure c++ is installed and make sure raylib is installed and make sure yaml-cpp is installed
-
