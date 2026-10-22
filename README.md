@@ -19,7 +19,7 @@ c++, Yaml
 
 | **V1.0** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGameC-Runtime) |
 # Warning
-if you install the file
-make sure c++ is installed
-and yaml-cpp and raylib is
-installed
+if you see this
+![](assets/problem.png)
+make sure c++ is installed and make sure raylib is installed and make sure yaml-cpp is installed
+
