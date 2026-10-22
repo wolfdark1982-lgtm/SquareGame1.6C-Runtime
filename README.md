@@ -3,7 +3,7 @@ Added Details to the game
 # Made With
 c++, Yaml
 # Download Here
-[Download Now](https://github.com/wolfdark1982-lgtm/SquareGame1.6C-Runtime/releases/download/SG1.6)
+[Download at Releases](https://github.com/wolfdark1982-lgtm/SquareGame1.6C-Runtime/releases/tag/SG1.6)
 # Versions
 | **V1.6**  | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGame1.6C-Runtime) |
 
