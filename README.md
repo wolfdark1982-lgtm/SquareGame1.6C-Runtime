@@ -19,6 +19,5 @@ c++, Yaml
 
 | **V1.0** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGameC-Runtime) |
 # Warning
-make sure c++ is installed (gcc runtime)
-make sure raylib is installed
-make sure yaml-cpp is installed
+make sure c++ is installed
+copy the .dll files at c++ bin folder
