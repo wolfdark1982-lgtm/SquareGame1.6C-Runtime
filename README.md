@@ -18,5 +18,3 @@ c++, Yaml
 | **V1.1** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGame1.1C-Runtime) |
 
 | **V1.0** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGameC-Runtime) |
-# Warning
-drag to your whatever path (MAKE SURE is right next to SquareGame1.6.exe
