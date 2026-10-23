@@ -19,5 +19,4 @@ c++, Yaml
 
 | **V1.0** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGameC-Runtime) |
 # Warning
-make sure c++ is installed
-copy the .dll files at c++ bin folder
+drag to your whatever path (MAKE SURE is right next to SquareGame1.6.exe
