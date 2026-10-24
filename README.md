@@ -21,4 +21,5 @@ c++, Yaml
 # Others
 if you click this exe setup from release you will see this
 ![](images/view4.png)
-click next for installing the game!
+
+click install for installing the game!
