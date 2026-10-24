@@ -18,3 +18,7 @@ c++, Yaml
 | **V1.1** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGame1.1C-Runtime) |
 
 | **V1.0** | [Click This Link](https://github.com/wolfdark1982-lgtm/SquareGameC-Runtime) |
+# Others
+if you click this exe setup from release you will see this
+![](images/view4.png)
+click next for installing the game!
